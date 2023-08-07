@@ -1,0 +1,31 @@
+html {
+  background-color: bisque;
+  text-align: center;
+}
+header {
+  text-align: center;
+  font-size: 30px;
+  border: 2px darkgoldenrod solid;
+}
+img.martin {
+  margin: auto 5px;
+  position: inherit;
+  object-position: center;
+  padding: 60px;
+  width: 400px;
+  height: 450px;
+  text-align: center;
+}
+.nav {
+  list-style: none;
+  font-size: 20px;
+}
+footer {
+  margin-top: 1%;
+  padding: 10px;
+  justify-content: right;
+  text-align: right;
+}
+p {
+  text-align-last: center;
+}
